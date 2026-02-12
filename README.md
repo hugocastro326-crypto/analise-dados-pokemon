@@ -32,6 +32,9 @@ Filtragem de Mega e Primal
 
 Comparação entre lendários e não lendários
 
+Visualização do notebook (NBViewer):
+https://nbviewer.org/github/hugocastro326-crypto/analise-dados-pokemon/blob/main/pokemon%20(1).ipynb
+
 Conclusão
 
 A análise demonstrou que Pokémon lendários possuem, em média, maior valor total de atributos. A criação da variável "Total" permitiu uma comparação objetiva da força geral, evidenciando como a análise de dados pode revelar padrões que não são perceptíveis apenas pela observação direta.
